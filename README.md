@@ -1,6 +1,7 @@
 # AWS-Transfer = WS Transfer Family simplifies migration of SFTP, AS2, FTPS, and FTP based workflows to AWS.
 Let say you have files on premise that you want to transfer into a s3 bucket in aws
 
+![awstransfer](https://github.com/user-attachments/assets/0e2cdd2d-6433-4c96-9db5-61af85a14610)
 
 ## 1-create the s3 bucket
 
